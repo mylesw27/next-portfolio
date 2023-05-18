@@ -1,0 +1,13 @@
+/* here, in a css module you cannot put element selectors */
+/* body {
+    background-color: hotpink;
+}/next.svg
+
+
+p {
+    color: chartreuse
+} */
+
+.greenText {
+    color: chartreuse;
+}
